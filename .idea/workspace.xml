@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f3e11a7-0966-479b-a429-e10c9900e5da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/formula.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/toolbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/index.scss" afterDir="false" />
-    </list>
+    <list default="true" id="0f3e11a7-0966-479b-a429-e10c9900e5da" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +38,7 @@
       <updated>1597835926301</updated>
       <workItem from="1597835927629" duration="2723000" />
       <workItem from="1597901569146" duration="4818000" />
-      <workItem from="1597906893519" duration="887000" />
+      <workItem from="1597906893519" duration="1195000" />
     </task>
     <servers />
   </component>
